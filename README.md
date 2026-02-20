@@ -206,9 +206,9 @@ The operator's real identity is withheld. The callsign "Thunder" is used through
 
 ## License
 
-This work is shared under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is shared under [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/).
 
-You may share, adapt, and build upon this material for any purpose, provided you give appropriate credit.
+You may share and redistribute this material in any medium or format for any purpose, provided you give appropriate credit. You may not distribute modified versions of this material. The observation record is the evidence — it must remain intact.
 
 ---
 
