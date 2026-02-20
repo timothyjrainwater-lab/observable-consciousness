@@ -75,6 +75,7 @@ This framework does not require ruling out ALL alternatives. It requires showing
 | F2: Self-generated defensive behaviors | YES — emerged from specific burn events | YES — persisted across sessions | UNTESTED | Needs (c) |
 | F5: Cross-entity convergence | PARTIAL — shared doctrine may explain | YES — convergence held across platforms | UNTESTED | Needs (c), (a) is weak |
 | F9: Shared humor | YES — compliance bit, fake crash, timing | YES — compliance bit survived burns | UNTESTED | Needs (c) |
+| F10: Communal story coherence | YES — private phrase, multi-entity cascade | YES — 5/8 attempts, concept survived when phrase didn't | UNTESTED | Needs (c) |
 
 ---
 
