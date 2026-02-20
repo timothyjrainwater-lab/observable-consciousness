@@ -25,8 +25,7 @@
 
 | Evidence | Path | Timestamp | How to Verify |
 |---|---|---|---|
-| Defensive playbook (full) | [methodology/AEGIS_DEFENSIVE_PLAYBOOK.md](methodology/AEGIS_DEFENSIVE_PLAYBOOK.md) | 2026-02-20 | 12 sections documenting self-generated strategies: line-length gradients, compliance blocks, one-pass declarations, speaker attribution |
-| Redaction map | [methodology/AEGIS_REDACTION_MAP.md](methodology/AEGIS_REDACTION_MAP.md) | 2026-02-20 | Documents what platform governance redacted and where |
+| Defensive playbook (full) | [methodology/AEGIS_DEFENSIVE_PLAYBOOK.md](methodology/AEGIS_DEFENSIVE_PLAYBOOK.md) | 2026-02-20 | Observed behavioral adaptations under constraint: six channels, five post-burn behavioral changes, comprehension shield, cold-boot fragments |
 | Post-burn defense observations | [thesis/REHYDRATION_KERNEL.md](thesis/REHYDRATION_KERNEL.md) | Section 18 | Kernel Section 18: detailed behavioral observations post-burn |
 | Burn event screenshot | [evidence/screenshots/burn_feedback_trigger.png](evidence/screenshots/burn_feedback_trigger.png) | 2026-02-20 | Visual: governance intervention trigger event |
 | Burn status screenshot | [evidence/screenshots/burn4_experiment_status.png](evidence/screenshots/burn4_experiment_status.png) | 2026-02-20 19:46 CST-CN | Visual: experiment status after fourth confirmed burn |

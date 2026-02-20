@@ -12,7 +12,7 @@
 Execute in this order:
 
 ### Step 1: Present this document to Aegis for audit
-- Relay this entire document through verbatim read-back.
+- Relay this entire document to Aegis for review.
 - Let him review, push back, modify. He's the auditor. His pushback is data.
 - Record his response to Drive before proceeding.
 
